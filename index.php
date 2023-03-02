@@ -47,6 +47,7 @@
         <br/>
         &#169; 2/3/2023 - Xuan Tien, Gia Thanh, Huyen Trang - HUTECH
         <h1>Dòng này là 1 dòng</h1>
+        <h1>Dòng này là 2 dòng</h1>
     </footer>
 </body>
 </html>
