@@ -46,6 +46,8 @@
     <footer style="color:red">
         <br/>
         &#169; 2/3/2023 - Xuan Tien, Gia Thanh, Huyen Trang - HUTECH
+        
+        <p>Hello thế giới!</p>
     </footer>
 </body>
 </html>
